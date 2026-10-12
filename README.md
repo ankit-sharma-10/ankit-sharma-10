@@ -2,41 +2,67 @@
 
 ### Associate Software Engineer @ Nagarro | Python, Backend Development & GenAI
 
-I'm a software engineer interested in building backend applications and AI-powered tools. My experience includes Azure data engineering, API automation at Ciena, and solving data structures and algorithms problems in Java.
+I'm a software engineer interested in building backend applications and AI-powered tools. My background includes Azure data engineering, API automation at Ciena, and solving data structures and algorithms problems in Java.
 
-Currently learning **FastAPI, LangChain, LangGraph, React, and Next.js** to build full-stack applications with AI features.
+I'm currently learning FastAPI, LangChain, LangGraph, React, and Next.js to build full-stack applications with AI features.
 
-### About Me
+## About Me
 
 - 💼 Associate Software Engineer at Nagarro
 - 🐍 Learning Python backend development with FastAPI
 - 🤖 Exploring LLM applications with LangChain and LangGraph
-- 🌐 Learning React and Next.js for full-stack development
-- ☁️ Worked with Azure Data Factory, ADLS, PySpark, and Databricks
+- 🌐 Learning React and Next.js
+- ☁️ Previously worked with Azure Data Factory, ADLS, PySpark, and Databricks
 - ☕ Solved 250+ DSA problems using Java
-- 🎓 B.Tech in Artificial Intelligence and Machine Learning, GGSIPU
+- 🎓 B.Tech in Artificial Intelligence and Machine Learning from GGSIPU
 
-### Technologies
+## 🛠️ Tech Stack
 
-**Languages:** Python, Java, JavaScript, TypeScript, SQL
+### Languages
 
-**Backend and AI:** FastAPI, LangChain, LangGraph
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" alt="Python, Java, JavaScript, TypeScript, HTML and CSS" />
+</p>
 
-**Frontend:** React, Next.js
+### Frontend, Backend & GenAI
 
-**Data Engineering:** Azure Data Factory, Azure Data Lake Storage, PySpark, Databricks
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs" alt="React, Next.js, FastAPI and Node.js" />
+</p>
 
-**Databases and Tools:** PostgreSQL, MongoDB, Redis, Git, Docker
+**Currently learning:** FastAPI, LangChain, LangGraph, and LangFuse.
 
-### Connect with Me
+### Data Engineering & Databases
 
-- [LinkedIn](https://www.linkedin.com/in/ankitsharma-/)
-- [LeetCode](https://leetcode.com/ankitsharmaofficial/)
-- [Email](mailto:ankit8802206997@gmail.com)
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,postgres,mongodb,mysql,redis" alt="Azure, PostgreSQL, MongoDB, MySQL and Redis" />
+</p>
 
-### GitHub Stats
+**Azure data stack:** Azure Data Factory (ADF), Azure Data Lake Storage (ADLS), Azure Databricks, Apache Spark, PySpark.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-sharma-10&show_icons=true&hide_border=true" alt="Ankit's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-sharma-10&layout=compact&hide_border=true" alt="Most used programming languages" />
+**Other:** ETL, SQL, data modeling, Power BI.
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kafka,kubernetes,linux,jenkins" alt="Git, GitHub, Docker, Kafka, Kubernetes, Linux and Jenkins" />
+</p>
+
+### Other Experience
+
+REST APIs, API automation, backend testing, machine learning, CNNs, and ResNet50.
+
+## 🤝 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/ankitsharma-/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ankit-sharma-10">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/ankitsharmaofficial/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" alt="LeetCode" />
+  </a>
+  <a href="mailto:ankit8802206997@gmail.com">📧 Email</a>
 </p>
